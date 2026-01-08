@@ -1,7 +1,7 @@
 ---
-title: Tags
+title: 技术标签
 layout: default
-description: keep hungry keep foolish
+description: 
 header-img: "img/tag-bg.jpg"
 ---
 
@@ -30,6 +30,12 @@ header-img: "img/tag-bg.jpg"
 				{% endfor %}
 			</div>
 
+            <!--<blockquote class="tag-comments">
+                标签命名规范：
+                    <li>行业观察、职位、公司优先使用中文</li>
+                    <li>外国产品、术语优先使用英文</li>
+            </blockquote>-->
+
             <!-- 标签列表 -->
 			{% for tag in site.tags %}
 			<div class="one-tag-list">
@@ -37,14 +43,16 @@ header-img: "img/tag-bg.jpg"
                     <span class="tag-text">{{ tag[0] }}</span>
                 </span>
 				{% for post in tag[1] %}
-				  <!-- <li class="listing-item">
+					<!--
+				  <li class="listing-item">
 				  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
 				  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-				  </li> -->
+				  </li> 
+				  -->	
 				 <div class="post-preview">
 				    <a href="{{ post.url | prepend: site.baseurl }}">
 				        <h2 class="post-title">
-                            {{ post.title }}
+                            {{ post.date | date:"%Y.%m" }}&nbsp;{{ post.title }}
 				        </h2>
 				        {% if post.subtitle %}
 				        <h3 class="post-subtitle">
