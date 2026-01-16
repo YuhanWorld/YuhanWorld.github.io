@@ -1,16 +1,18 @@
-```
 ---
-layout:     post   				    # 使用的布局（不需要改）
-title:      var,let ,const 的区别?    # 标题 
-subtitle:    #副标题
-date:       2026-01-16 				# 时间
-author:     Yuhan					# 作者
-header-img:                      	#这篇文章标题背景图片
-catalog: true 						# 是否归档
-tags:								#标签
-    - 前端面试题
+layout:     post
+title:     var,let,const的区别
+subtitle:  
+date:       2026-01-17
+author:     
+header-img: 
+catalog: true
+tags:
+    - < 前端面试 >
+typora-root-url: ..
+
+
 ---
-```
+
 
 
 
