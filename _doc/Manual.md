@@ -28,13 +28,13 @@
 
 每一篇文章文件命名采用的是`2017-02-04-Hello-2017.md`时间+标题的形式，空格用`-`替换连接。
 
-文件的格式是 `.md` 的 [**MarkDown**](http://sspai.com/25137/) 文件。
+文件的格式是 `.md` 的 [**MarkDown**](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)  文件。
 
 我们的博客文章格式采用是 **MarkDown**+ **YAML** 的方式。
 
 [**YAML**](http://www.ruanyifeng.com/blog/2016/07/yaml.html?f=tt) 就是我们配置 `_config`文件用的语言。
 
-[**MarkDown**](http://sspai.com/25137/) 是一种轻量级的「标记语言」，很简单。[花半个小时看一下](http://sspai.com/25137)就能熟练使用了
+[**MarkDown**](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88) 是一种轻量级的「标记语言」，很简单。[花半个小时看一下](http://sspai.com/25137)就能熟练使用了
 
 大概就是这么一个结构。
 
