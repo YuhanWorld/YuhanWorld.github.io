@@ -5,6 +5,9 @@
 
 ![](http://yuhanworld.github.io/img/home.jpg)
 
+## 使用说明
+
+[使用说明 👉](https://github.com/yuhanworld/yuhanworle.github.io/blob/master/_doc/Manual.md)
 
 ## 致谢
 
