@@ -7,7 +7,7 @@
 
 ## 使用说明
 
-[使用说明 👉](https://github.com/yuhanworld/yuhanworle.github.io/blob/master/_doc/Manual.md)
+[使用说明 👉](https://github.com/YuhanWorld/YuhanWorld.github.io/blob/main/_doc/Manual.md)
 
 ## 致谢
 
@@ -21,4 +21,4 @@
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/yuhanworld/yuhanworld.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/YuhanWorld/YuhanWorld.github.io/blob/main/LICENSE)。
